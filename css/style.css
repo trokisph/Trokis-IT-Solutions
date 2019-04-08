@@ -78,15 +78,6 @@
 /* 1.1 General */
 
 
-
-@import url('bootstrap.min.css');
-@import url('font-awesome.min.css');
-@import url('animate.css');
-@import url('hover.css');
-@import url('magnific-popup.css');
-@import url('owl.carousel.css');
-@import url('owl.transitions.css');
-
 html{
   -webkit-font-smoothing: antialiased;
 }

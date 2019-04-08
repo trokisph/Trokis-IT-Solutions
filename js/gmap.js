@@ -16,7 +16,7 @@ function initialize() {
     //change address details here
     var contentString = '<div class="map-info">' 
     + '<div class="map-title">' 
-    + '<h3><img alt="" src="img/brand.png"></h3></div>' 
+    + '<h3><img alt="" src="https://files.trokis.com/img/brand.png"></h3></div>' 
     + '<p class="map-address"><i class="fa fa-map-marker"></i><span class="text"><strong>100 Broadway</strong><br> New York, NY 10005, США</span><br><i class="fa fa-phone"></i><span class="text">604-788-1832</span><br><span class="map-email"><i class="fa fa-envelope"></i><span class="text">info@sitename.com</span></span></p>' 
     + '<p><a href="https://www.google.com/maps/place/851+6th+Ave,+New+York,+NY+10001,+USA/data=!4m2!3m1!1s0x89c259af44f80211:0xbd87d30d3c7da9d2?sa=X&amp;ei=KqAdVazxJMTkuQS9sIGIBQ&amp;aved=0CB0Q8gEwAA" target="_blank">Open on Google Maps</a></p></div>';
     
@@ -29,7 +29,7 @@ function initialize() {
     marker = new google.maps.Marker({
         map: map,
         draggable: true,
-        title: 'SuperShot', //change title here
+        title: 'Trokis IT Solutions', //change title here
     
         animation: google.maps.Animation.DROP,
         position: mapLocation
